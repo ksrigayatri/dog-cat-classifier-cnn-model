@@ -151,6 +151,7 @@ Sample Outputs:
 - Cat Image → Predicted as Cat
 
 Output Screenshots:
+
 ![Output 1](images/accuracy_before_reducing_overfitting.png)
 
 ![Output 2](images/accuracy_after_reducing_overfitting.png)
